@@ -15,5 +15,5 @@ $ make
 
 ## C++
 ```bash
-$ g++ -o helloworld main.cpp
+$ g++ -o helloworld main.cpp -std=c++11
 ```
